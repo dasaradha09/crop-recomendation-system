@@ -41,8 +41,11 @@ The system takes into account several factors such as soil type, climate, rainfa
 
 ## **Installation and Usage**
 **Clone the repository**: git clone https://github.com/your-username/crop-recommendation-system.git 
+
 **Install the required dependencies**: pip install -r requirements.txt 
+
 **Run the application**: python app.py 
+
 Access the application through the web browser at http://localhost:5000
 
 -----
