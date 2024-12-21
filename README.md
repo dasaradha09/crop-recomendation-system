@@ -9,6 +9,11 @@ The system takes into account several factors such as soil type, climate, rainfa
 -----
 
 ## **Demo Video**
+**Accurate Crop Recommendations :** Achieves 95% accuracy in suggesting the best crop based on input features.
+
+**Clean and Intuitive User Interface:** Designed with HTML and CSS for a user-friendly experience.
+
+**Data Visualization**: Includes insightful charts and graphs to understand data patterns and trends.
 
 
 ------
