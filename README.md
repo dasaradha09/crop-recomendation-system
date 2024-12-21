@@ -19,6 +19,20 @@ The system takes into account several factors such as soil type, climate, rainfa
 
 ## **steps i followed**
 
+1)Gathered the dataset from Kaggle.
+
+2)Preprocessed the data using NumPy and Pandas.
+
+3)Created visualizations to analyze the data.
+
+4)Split the data into training and testing sets.
+
+5)Trained the model using various machine learning algorithms.
+
+6)Saved the trained model using Pickle for future use.
+
+7)Built a simple user interface with HTML and CSS to interact with the system.
+
 
 -------
 
