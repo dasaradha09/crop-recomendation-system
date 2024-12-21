@@ -36,7 +36,7 @@ Access the application through the web browser at http://localhost:5000
 ## **Acknowledgments**
 We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
 
---
+----
 
 ## **contact**
 
