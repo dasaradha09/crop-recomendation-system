@@ -23,6 +23,13 @@ The system takes into account several factors such as soil type, climate, rainfa
 -------
 
 ## **Technologies Used**
+**Python**: Programming language used for model development, data preprocessing, and web application development.
+**NumPy**: Library for numerical computing used for handling arrays and mathematical operations. 
+**Pandas**: Data manipulation library used for data preprocessing and analysis. 
+**seaborn**: Data visualization library used to gather insights from visualizations
+**Scikit-learn**: Machine learning library used for model training, evaluation, and prediction.
+**HTML/CSS**: Markup and styling languages used for designing the web interface.
+**Flask**: Web framework used for building the user interface and handling HTTP requests.
 
 ------
 
